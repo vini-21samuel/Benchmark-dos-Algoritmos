@@ -1,5 +1,5 @@
 #include <stdio.h>
-#includ e <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 
 // Algoritmo de ordenação: Merge Sort
